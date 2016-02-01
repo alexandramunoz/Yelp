@@ -18,7 +18,7 @@ The following **optional** features are implemented:
 - [ ] Search results page
    - [ ] Infinite scroll for restaurant results.
    - [ ] Implement map view of restaurant results.
-- [ ] Implement the restaurant detail page.
+- [X] Implement the restaurant detail page. ---Had issues pushing code to GitHub, but I included a GIF to show the detail page.
 
 The following **additional** features are implemented:
 
