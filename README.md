@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. Implementing map view
+1. Implementing map view- finding latitude and longitude of locations
 2. Details page
 
 ## Video Walkthrough 
@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I am working on implementing a map view of the restaurant results but I am having difficulty in figuring out how to make annotations. I also tried to implement a details page but the var business comes through as nil every time I try to select the cell and load the information that should be displayed for the details view controller.
+I am working on implementing a map view of the restaurant results but I am having difficulty in figuring out how to make annotations. I wasn’t sure how to find the latitude and longitude of the restaurant locations so that there would be annotations for them. I also tried to implement a details page but the var business comes through as nil every time I try to select the cell and load the information that should be displayed for the details view controller.
 
 ## License
 
