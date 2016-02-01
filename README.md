@@ -41,6 +41,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 I am working on implementing a map view of the restaurant results but I am having difficulty in figuring out how to make annotations. I wasn’t sure how to find the latitude and longitude of the restaurant locations so that there would be annotations for them. 
 
+I was able to figure out how to make the details page, but I had an issue pushing the code to GitHub. This is a GIF of my app with the details page: 
+
+<img src='http://i.imgur.com/oWh5Kri.gif' title='Yelp App' width='' alt='Yelp App' />
+
 ## License
 
     Copyright [2016] [Alexandra Munoz]
